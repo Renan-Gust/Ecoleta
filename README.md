@@ -1,5 +1,6 @@
 # Ecoleta
 Semana de treinameito em HTML, CSS, JavaScript, NodeJS e SQL pela Rocketseat .
+</br>
 <img src="/public/assets/logo.svg" >
 
 ![home](https://user-images.githubusercontent.com/64798575/84153082-d1ed3e80-aa3b-11ea-8ff7-c7db135d62a6.PNG)
